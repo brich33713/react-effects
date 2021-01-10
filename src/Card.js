@@ -9,6 +9,4 @@ const Card = ({data}) => {
     </div>)
 }
 
-
-
 export default Card;
